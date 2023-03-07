@@ -1,0 +1,4 @@
+1,lapte,12.0
+4,cereale,7.0
+2,cereale,11.0
+3,cartofi,6.0
